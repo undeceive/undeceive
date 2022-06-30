@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **franksarmientogarcia@proton.me**
 
-- 📄 Know about my experiences [file:///home/server/Downloads/resume-1.pdf](file:///home/server/Downloads/resume-1.pdf)
+- 📄 Know about my experiences [file:///home/server/Pictures/wallpapers-master/resume.pdf](file:///home/server/Pictures/wallpapers-master/resume.pdf)
 
 - ⚡ Fun fact **I like photography**
 

@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on a portfolio [Franks website](https://undeceive.net/)
+- 🔭 I’m currently working on a portfolio [Frank's website](http://undeceive.io/)
 
 - 🌱 I’m currently learning **Java**
 
-- 👨‍💻 All of my projects are available at [https://undeceive.net/](https://undeceive.net/)
+- 👨‍💻 All of my projects are available at [http://undeceive.io/](http://undeceive.io/)
 
 - 📝 I regularly write articles on [https://medium.com/@undeceive](https://medium.com/@undeceive)
 

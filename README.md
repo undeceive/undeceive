@@ -13,15 +13,9 @@
 
 - 👯 I’m looking to collaborate on [paws](https://paws-undeceive.vercel.app/)
 
-- 🤝 I’m looking for help with [paws](https://paws-undeceive.vercel.app/)
-
 - 👨‍💻 All of my projects are available at [https://undeceive.io/](https://undeceive.io/)
 
 - 📝 I regularly write articles on [https://medium.com/@undeceive](https://medium.com/@undeceive)
-
-- 💬 Ask me about **my favorite text editor doom emacs**
-
-- 📫 How to reach me **franksarmientogarcia@proton.me**
 
 - 📄 Know about my experiences [file:///home/server/Documents/Work/resume.pdf](file:///home/server/Documents/Work/resume.pdf)
 

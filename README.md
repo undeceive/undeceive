@@ -11,5 +11,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://medium.com/https://medium.com/@undeceive" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="https://medium.com/@undeceive" height="30" width="40" /></a>
+<a href="https://medium.com/@undeceive" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@undeceive" height="30" width="40" /></a>
 </p>
+

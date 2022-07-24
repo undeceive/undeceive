@@ -7,7 +7,7 @@
 
 - 📄 Know about my experiences [file:///home/zuse/Downloads/Software_Engineer_Resume.pdf](file:///home/zuse/Downloads/Software_Engineer_Resume.pdf)
 
-- ⚡ Fun fact **I enjoy Exploring the Linux landscape with a passion for learning**
+- ⚡ Fun fact **I enjoy exploring the Linux landscape with a passion for learning**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

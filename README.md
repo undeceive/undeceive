@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Frank Garcia Sarmiento 👋</h1>
+<h1 align="center">Hi, I'm Frank Garcia Sarmiento</h1>
 
 <h3 align="center">
   Computer Science student and aspiring software developer based in the Atlanta area

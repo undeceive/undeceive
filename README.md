@@ -1,14 +1,22 @@
-<h1 align="center">Hi 👋, I'm Frank Garcia Sarmietno</h1>
-<h3 align="center">Full-stack developer based in Atlanta</h3>
+<h1 align="center">Hi 👋, I'm Frank Garcia Sarmiento</h1>
+<h3 align="center">Computer Science student and aspiring software developer based in Atlanta</h3>
 
-- 👨‍💻 All of my projects are available at [https://undeceive.io/](https://undeceive.io/)
+- 👨‍💻 Portfolio: [https://portfolio-undeceives-projects.vercel.app/](https://portfolio-undeceives-projects.vercel.app/)
 
-- 📝 I regularly write articles on [https://medium.com/@undeceive](https://medium.com/@undeceive)
+- 🚀 Currently building: [OrderOps Dashboard](https://github.com/undeceive/orderops-dashboard)
 
-- ⚡ Fun fact **I enjoy exploring the Linux landscape with a passion for learning**
+- 🐧 Current focus: React, Node.js, Express, SQLite, Git, and Linux
+
+- ⚡ Fun fact: **I enjoy exploring the Linux landscape and learning how systems work**
+
+<h3 align="left">Featured Projects:</h3>
+
+- [OrderOps Dashboard](https://github.com/undeceive/orderops-dashboard)
+- [Portfolio Website](https://github.com/undeceive/portfolio)
+- [Paws E-Commerce App](https://github.com/undeceive/paws)
+- [Claw Budget Tracker](https://github.com/undeceive/claw)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://medium.com/@undeceive" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@undeceive" height="30" width="40" /></a>
+<a href="https://github.com/undeceive" target="blank">GitHub</a>
 </p>
-

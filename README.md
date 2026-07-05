@@ -1,22 +1,27 @@
-<h1 align="center">Hi 👋, I'm Frank Garcia Sarmiento</h1>
-<h3 align="center">Computer Science student and aspiring software developer based in Atlanta</h3>
+<h1 align="center">Hi, I'm Frank Garcia Sarmiento 👋</h1>
 
-- 👨‍💻 Portfolio: [https://portfolio-undeceives-projects.vercel.app/](https://portfolio-undeceives-projects.vercel.app/)
+<h3 align="center">
+  Computer Science student and aspiring software developer based in the Atlanta area
+</h3>
 
-- 🚀 Currently building: [OrderOps Dashboard](https://github.com/undeceive/orderops-dashboard)
-
-- 🐧 Current focus: React, Node.js, Express, SQLite, Git, and Linux
-
-- ⚡ Fun fact: **I enjoy exploring the Linux landscape and learning how systems work**
-
-<h3 align="left">Featured Projects:</h3>
-
-- [OrderOps Dashboard](https://github.com/undeceive/orderops-dashboard)
-- [Portfolio Website](https://github.com/undeceive/portfolio)
-- [Paws E-Commerce App](https://github.com/undeceive/paws)
-- [Claw Budget Tracker](https://github.com/undeceive/claw)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://github.com/undeceive" target="blank">GitHub</a>
+<p align="center">
+  I build practical software for e-commerce operations, internal business workflows,
+  data organization, and automation.
 </p>
+
+<p align="center">
+  <a href="https://portfolio-undeceives-projects.vercel.app/">Portfolio</a>
+</p>
+
+---
+
+### Current Focus
+
+- Building full-stack projects with React, Node.js, Express, and SQLite
+- Developing an operations dashboard inspired by real e-commerce and warehouse workflows
+- Improving my Linux, Git, and software development workflow
+- Learning cybersecurity, IT support, and open source technologies
+
+### Tech Stack
+
+JavaScript · TypeScript · React · Next.js · Node.js · Express · SQLite · Git · GitHub · Linux · Bash · Vite
